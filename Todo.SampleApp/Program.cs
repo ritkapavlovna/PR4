@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Todo.SampleApp
 {
-    internal class Program
+    internal static class Program
     {
     }
 }
